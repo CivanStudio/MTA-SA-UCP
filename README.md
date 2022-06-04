@@ -17,3 +17,7 @@ kodlama aşaması haladaha devam etmektedir.
 <h1>Anasayfa Ekranı</h1>
 <p>Anasayfa Ekranı Extra eklentiler yapılacağı için haladaha geliştirilmemiştir, Altı çizili alan Tek Seferlik Hediye Sistemidir,<br>Oyun içerisinden aktarılan paralar vb. şeyler anlık olarak web sitesine yansımaktadır.</p>
 <img src="https://i.hizliresim.com/6rbcw6v.PNG">
+<br>
+<h1>Hediye Sistemi Ekranı</h1>
+<p>Hediye sistemi sunucumuza yeni kayıt olmuş kullanıcılarımıza hediye sunabilmek için geliştirdiğim bir sistemdir bu sistem</p>
+<img src="https://i.hizliresim.com/efefrg0.PNG">
