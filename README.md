@@ -16,4 +16,4 @@ kodlama aşaması haladaha devam etmektedir.
 <br>
 <h1>Anasayfa Ekranı</h1>
 <p>Anasayfa Ekranı Extra eklentiler yapılacağı için haladaha geliştirilmemiştir, Altı çizili alan Tek Seferlik Hediye Sistemidir.</p>
-
+<img src="https://i.hizliresim.com/6rbcw6v.PNG">
