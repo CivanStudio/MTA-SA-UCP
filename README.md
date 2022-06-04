@@ -19,5 +19,6 @@ kodlama aşaması haladaha devam etmektedir.
 <img src="https://i.hizliresim.com/6rbcw6v.PNG">
 <br>
 <h1>Hediye Sistemi Ekranı</h1>
-<p>Hediye sistemi sunucumuza yeni kayıt olmuş kullanıcılarımıza hediye sunabilmek için geliştirdiğim bir sistemdir bu sistem</p>
+<p>Hediye sistemi sunucumuza yeni kayıt olmuş kullanıcılarımıza hediye sunabilmek için geliştirdiğim bir sistemdir.<br> Bu sistem tek seferlik 5TL değerinde bakiye vemektedir</p>
 <img src="https://i.hizliresim.com/efefrg0.PNG">
+<img src="https://cdn.discordapp.com/attachments/977385854408466512/977390601626599424/2022-05-21_05-00-06.mp4">
