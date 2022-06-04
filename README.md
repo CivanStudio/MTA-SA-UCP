@@ -23,4 +23,4 @@ kodlama aşaması haladaha devam etmektedir.
 <img src="https://i.hizliresim.com/efefrg0.PNG">
 <h4><a href="https://user-images.githubusercontent.com/47367048/172014180-ac18fc9d-af0c-49d9-af0d-191c44cd6781.mp4">Hediye Sistemi Animasyon</a></h4>
 <h4>Hediye Sistemi Hata Ekranı<h4>
-<img src="https://i.hizliresim.com/3ghm5z8.PNG">
+<img src="https://i.hizliresim.com/k2k0lb3.PNG">
