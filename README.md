@@ -15,5 +15,5 @@ kodlama aşaması haladaha devam etmektedir.
 <img src="https://i.hizliresim.com/l2oj0y4.PNG">
 <br>
 <h1>Anasayfa Ekranı</h1>
-<p>Anasayfa Ekranı Extra eklentiler yapılacağı için haladaha geliştirilmemiştir, Altı çizili alan Tek Seferlik Hediye Sistemidir.</p>
+<p>Anasayfa Ekranı Extra eklentiler yapılacağı için haladaha geliştirilmemiştir, Altı çizili alan Tek Seferlik Hediye Sistemidir,<br>Oyun içerisinden aktarılan paralar vb. şeyler anlık olarak web sitesine yansımaktadır.</p>
 <img src="https://i.hizliresim.com/6rbcw6v.PNG">
