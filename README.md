@@ -24,3 +24,6 @@ kodlama aşaması haladaha devam etmektedir.
 <h4><a href="https://user-images.githubusercontent.com/47367048/172014180-ac18fc9d-af0c-49d9-af0d-191c44cd6781.mp4">Hediye Sistemi Animasyon</a></h4>
 <h1>Hediye Sistemi Hata Ekranı</h1>
 <img src="https://i.hizliresim.com/k2k0lb3.PNG">
+<h1>Pass Sistemi</h1>
+<p>Geliştirmeleri devam etmektedir oyun içi oyuncunun saati arttıkca buradan sandıkları açıcak ve hediyeler otomatik olarak oyuna aktarılacaktır.</p>
+<img src="https://i.hizliresim.com/9m2aaev.png">
