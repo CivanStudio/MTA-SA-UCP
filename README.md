@@ -21,6 +21,6 @@ kodlama aşaması haladaha devam etmektedir.
 <h1>Hediye Sistemi Ekranı</h1>
 <p>Hediye sistemi sunucumuza yeni kayıt olmuş kullanıcılarımıza hediye sunabilmek için geliştirdiğim bir sistemdir.<br> Bu sistem tek seferlik 5TL değerinde bakiye vemektedir</p>
 <img src="https://i.hizliresim.com/efefrg0.PNG">
-<h4>Hediye Sistemi Animasyon</h4>
-![2022-05-21-05-00-06](https://user-images.githubusercontent.com/47367048/172014081-3f989aa1-f77e-4351-a386-86730e2e2621.gif)
+<h4><a href="https://user-images.githubusercontent.com/47367048/172014180-ac18fc9d-af0c-49d9-af0d-191c44cd6781.mp4">Hediye Sistemi Animasyon</a></h4>
+
 
