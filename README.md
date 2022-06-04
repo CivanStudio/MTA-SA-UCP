@@ -22,4 +22,4 @@ kodlama aşaması haladaha devam etmektedir.
 <p>Hediye sistemi sunucumuza yeni kayıt olmuş kullanıcılarımıza hediye sunabilmek için geliştirdiğim bir sistemdir.<br> Bu sistem tek seferlik 5TL değerinde bakiye vemektedir</p>
 <img src="https://i.hizliresim.com/efefrg0.PNG">
 <h4>Hediye Sistemi Animasyon</h4>
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/fvqh5c" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<img src="https://streamable.com/fvqh5c">
