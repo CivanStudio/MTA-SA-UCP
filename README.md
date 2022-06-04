@@ -13,5 +13,7 @@ kodlama aşaması haladaha devam etmektedir.
 <br>
 <h1>Başarılı Giriş Ekranı</h1>
 <img src="https://i.hizliresim.com/l2oj0y4.PNG">
-
+<br>
+<h1>Anasayfa Ekranı</h1>
+<p>Anasayfa Ekranı Extra eklentiler yapılacağı için haladaha geliştirilmemiştir, Altı çizili alan Tek Seferlik Hediye Sistemidir.</p>
 
