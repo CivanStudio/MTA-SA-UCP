@@ -16,7 +16,7 @@ kodlama aşaması haladaha devam etmektedir.
 <br>
 <h1>Anasayfa Ekranı</h1>
 <p>Anasayfa Ekranı Extra eklentiler yapılacağı için haladaha geliştirilmemiştir, Altı çizili alan Tek Seferlik Hediye Sistemidir,<br>Oyun içerisinden aktarılan paralar vb. şeyler anlık olarak web sitesine yansımaktadır.</p>
-<img src="https://user-images.githubusercontent.com/47367048/172045497-fc1a12f1-83a6-461b-a1eb-8e559ac63fe0.PNG">
+<img src="https://user-images.githubusercontent.com/47367048/172047066-1c4aa4fc-33a7-4b59-9f75-fe86b0fbb80c.PNG">
 <h4><a href="https://user-images.githubusercontent.com/47367048/172045597-61dbf5d3-b5cb-4085-bab8-bc054ad31744.mp4">Anasayfa Ekranı Animasyon</a></h4>
 <br>
 <h1>Hediye Sistemi Ekranı</h1>
@@ -30,4 +30,4 @@ kodlama aşaması haladaha devam etmektedir.
 <img src="https://i.hizliresim.com/9m2aaev.png">
 <br>
 <hr>
-<p>Son güncelleme : 13:11 05.06.2022</p>
+<p>Son güncelleme : 13:51 05.06.2022</p>
