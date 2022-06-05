@@ -17,6 +17,7 @@ kodlama aşaması haladaha devam etmektedir.
 <h1>Anasayfa Ekranı</h1>
 <p>Anasayfa Ekranı Extra eklentiler yapılacağı için haladaha geliştirilmemiştir, Altı çizili alan Tek Seferlik Hediye Sistemidir,<br>Oyun içerisinden aktarılan paralar vb. şeyler anlık olarak web sitesine yansımaktadır.</p>
 <img src="https://user-images.githubusercontent.com/47367048/172045497-fc1a12f1-83a6-461b-a1eb-8e559ac63fe0.PNG">
+<h4><a href="https://user-images.githubusercontent.com/47367048/172045597-61dbf5d3-b5cb-4085-bab8-bc054ad31744.mp4">Anasayfa Ekranı Animasyon</a></h4>
 <br>
 <h1>Hediye Sistemi Ekranı</h1>
 <p>Hediye sistemi sunucumuza yeni kayıt olmuş kullanıcılarımıza hediye sunabilmek için geliştirdiğim bir sistemdir.<br> Bu sistem tek seferlik 5TL değerinde bakiye vemektedir</p>
