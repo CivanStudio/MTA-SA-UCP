@@ -28,3 +28,6 @@ kodlama aşaması haladaha devam etmektedir.
 <h1>Pass Sistemi</h1>
 <p>Geliştirmeleri devam etmektedir oyun içi oyuncunun saati arttıkca buradan sandıkları açıcak ve hediyeler otomatik olarak oyuna aktarılacaktır.</p>
 <img src="https://i.hizliresim.com/9m2aaev.png">
+<br>
+<hr>
+<p>Son güncelleme : 13:11 05.06.2022</p>
