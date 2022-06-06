@@ -31,4 +31,4 @@ kodlama aşaması haladaha devam etmektedir.
 <img src="https://i.hizliresim.com/9m2aaev.png">
 <br>
 <hr>
-<p>Son güncelleme : 13:51 05.06.2022</p>
+<p>Son güncelleme : 20:10 06.06.2022</p>
