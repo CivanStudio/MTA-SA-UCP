@@ -6,8 +6,8 @@ kodlama aşaması haladaha devam etmektedir.
 
 
 <br>
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/eh8p8w" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-<br>
+<h1>UCP Önizleme</h1>
+<h4><a href="https://streamable.com/eh8p8w"></a></h4>
 
 <h1>Hatalı Giriş Ekranı</h1>
 <img src="https://i.hizliresim.com/k80ne6b.PNG">
